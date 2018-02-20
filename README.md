@@ -8,3 +8,6 @@ Specifications and considerations:
 4. Does not remove Tag if hashtag word is not in description field or deleted from description field
 5. Removes punctuation (periods, commas, question and exclamation marks, colons and semicolons, and closing parentheses and braces)
 6. Hashtag must be preceded by a space or start of new line to register as the beginning of a tag
+
+SugarCRM Community URL:
+https://community.sugarcrm.com/message/98140-re-adding-tags-from-the-description-field?commentID=98140#comment-98140
